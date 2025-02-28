@@ -4,8 +4,8 @@ import categories from './categories';
 import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
-  id: 96528,
-  name: 'gkd-subscription',
+  id: 9525,
+  name: 'gkd-zjp',
   version: 0,
   author: 'zjp',
   checkUpdateUrl: 'https://github.com/zjp18538666496/ad/gkd.json5',
